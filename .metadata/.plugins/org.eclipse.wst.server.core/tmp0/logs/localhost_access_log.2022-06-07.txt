@@ -1,0 +1,14 @@
+127.0.0.1 - - [07/Jun/2022:21:03:10 +0700] "GET / HTTP/1.1" 404 751
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:10 +0700] "GET /Project_CuoiKy/ HTTP/1.1" 302 -
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:21 +0700] "GET /Project_CuoiKy/home;jsessionid=287A03C028DFD15E4A256E20E3BE570D HTTP/1.1" 200 13375
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:21 +0700] "GET /Project_CuoiKy/view//client/css/style.css HTTP/1.1" 200 9663
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:21 +0700] "GET /Project_CuoiKy/view//client/css/order.css HTTP/1.1" 200 2865
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:21 +0700] "GET /Project_CuoiKy/view//client/css/single-product.css HTTP/1.1" 200 2195
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:21 +0700] "GET /Project_CuoiKy/view/client/css/cart.css HTTP/1.1" 200 3450
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:21 +0700] "GET /Project_CuoiKy/view/client/css/blog.css HTTP/1.1" 200 1488
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:21 +0700] "GET /Project_CuoiKy/view/client/css/login.css HTTP/1.1" 200 1503
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:21 +0700] "GET /Project_CuoiKy/view/client/css/shop.css HTTP/1.1" 200 2539
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:21 +0700] "GET /Project_CuoiKy/view/client/js/slider.js HTTP/1.1" 200 968
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:21 +0700] "GET /Project_CuoiKy/view/client/js/product-slider.js HTTP/1.1" 200 1384
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:22 +0700] "GET /favicon.ico HTTP/1.1" 404 762
+0:0:0:0:0:0:0:1 - - [07/Jun/2022:21:03:58 +0700] "GET /Project_CuoiKy/shop?gender=1 HTTP/1.1" 200 12307
